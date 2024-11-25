@@ -1,0 +1,25 @@
+// :root {
+//   --baseFontSize : 14px
+// }
+
+body {
+  font-size: var(--baseFontSize);
+}
+
+h1 {
+  color: orange;
+  display: flex;
+}
+img {
+  width: 100px;
+}
+.img {
+  width: 200px;
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  // -o-animation: ; opera
+  // -moz-animation: ;
+  // -ms-transform-origin ms
+}
